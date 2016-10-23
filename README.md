@@ -11,4 +11,4 @@
 * Define Multiple functions like encrypt and decrypt.
 * Take an Input string and a key from the User.
 * Understand the Ascii Value of characters, and use the Mod logic.
-* Use Value + key to encrypt and Value - key to decrypt.
+* Use (Value + key) to encrypt and (Value - key) to decrypt.
