@@ -1,0 +1,29 @@
+
+			World Of Secrets.....
+　
+　
+Enter:
+ 1 for encryption.
+ 2 for decryption.
+ 3 to leave. 
+1
+Enter The String you want to Encrypt 
+pqrstuvw
+Enter the key 
+1
+qrstuvwx
+Do you want to continue.Y for Yes and N for No: 
+y
+Enter:
+ 1 for encryption.
+ 2 for decryption.
+ 3 to leave. 
+2
+Enter The String you want to Decrypt 
+qrstuvwx
+Enter the key 
+1
+pqrstuvw
+Do you want to continue.Y for Yes and N for No: 
+n
+>>> 
